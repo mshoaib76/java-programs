@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MyClass
+comment1.params=name\ code\ price\ brand
+comment1.target=Mobile(java.lang.String,\ int,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=void\ displayRecord()
+comment3.params=searchKey
+comment3.target=boolean\ searchRecord(java.lang.String)
+comment4.params=deleteCode
+comment4.target=void\ deleteRecord(int)
+comment5.params=newName\ newCode\ newPrice\ newBrand
+comment5.target=void\ editRecord(java.lang.String,\ int,\ double,\ java.lang.String)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
